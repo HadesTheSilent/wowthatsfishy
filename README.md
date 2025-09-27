@@ -1,3 +1,5 @@
+⚠️ Este projeto foi descontinuado e não receberá mais atualizações.
+
 # WowThatsFishy - World of Warcraft Fishing Bot
 
 Um projeto de automação de pesca para World of Warcraft usando visão computacional e detecção de imagem em tempo real.
